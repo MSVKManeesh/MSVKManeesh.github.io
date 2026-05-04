@@ -2,7 +2,7 @@
 
 > **AI-Driven Cybersecurity Enthusiast | SOC Analyst Aspirant | CS Undergraduate**
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-maneeshmsvk.github.io-64b5f6?style=for-the-badge)](https://maneeshmsvk.github.io)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-msvkmaneesh.github.io-64b5f6?style=for-the-badge)](https://msvkmaneesh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-msvkmaneesh-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/msvkmaneesh)
 [![GitHub](https://img.shields.io/badge/GitHub-MSVKManeesh-181717?style=for-the-badge&logo=github)](https://github.com/MSVKManeesh)
 
